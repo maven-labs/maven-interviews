@@ -6,6 +6,7 @@
 git clone git@github.com:maven-labs/maven-interviews.git
 cd maven-interviews
 bundle install
+./bin/rake db:setup
 ```
 
 ## Run Server
