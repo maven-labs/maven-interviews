@@ -12,7 +12,7 @@ bundle install
 ## Run Server
 Start the rails server
 ``` bash
-rails server -b 0.0.0.0
+./bin/rails server -b 0.0.0.0
 ```
 
 When starting, the server will print out the IP address and web address to access from a remote machine/phone:
