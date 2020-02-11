@@ -11,6 +11,13 @@ bundle install
 
 ## Run Server
 Start the rails server
+
+``` bash
+./bin/run
+```
+
+OR
+
 ``` bash
 ./bin/rails server -b 0.0.0.0
 ```
